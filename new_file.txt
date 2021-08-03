@@ -1,5 +1,7 @@
 hello cac ban
 
+<<<<<<< HEAD
 xao lone ghe ta oi
 
 chao ca nha nhe <3
+
